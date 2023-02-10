@@ -1,0 +1,6 @@
+Root 1gzJuGIcvPg9cw-B_V5PhqsaR89T8HkMn https://bot.2704.workers.dev
+Movies 1wES7t2cJBCiWwmjQty4H-avvdOjBqXb1 https://bot.2704.workers.dev/Movies
+Series 1jSkA57unAR1hwUoqcmXz7-DxA6h_d1z5 https://bot.2704.workers.dev/Series
+Music 1qxdn7WpdplVE91meMYR7YUmqaHRKzKQT https://bot.2704.workers.dev/Music
+Games 1m3iCwj09gCn7JLusnBkZlmg9ODTtzLBq https://bot.2704.workers.dev/Games
+Others 1b23DXvqNmAtxstUB8F8nurOcHXbnNUXq https://bot.2704.workers.dev/Others
